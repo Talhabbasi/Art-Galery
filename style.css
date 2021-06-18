@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.header{
+    margin: 35px;
+}
+.nav{
+    padding: 3px;
+}
+.ul-flex{
+
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.ul-flex li{
+    text-decoration: none;
+    padding: 2px;
+}
+.ul-flex li a{
+    text-decoration: none;
+    color: black;
+
+}
+.ul-flex li a:hover{
+    background-color: grey;
+    padding: 12px;
+}
+img{
+    width: 100%;
+    
+  
+}
+.art-folio{
+    display: flex;
+}
+
+.main-container{
+    background-color: bisque;
+    text-align: center;
+    margin: 20px 0px 1px 0px;
+
+
+}
+
+
+.img-center{
+position: relative;
+left: 430px;  
+    margin: 20px;
+    padding: 20px;
+   width: 300px;
+}
+p{
+    margin: 10px 150px;
+    padding: 10px;
+}
+.color-red{
+    color: red !important;
+}
+.no-idea{
+display: flex;
+flex-direction: column;
+
+    
+}
+input{
+position: relative;
+top: 0;
+left: 360px;
+    width: 40%;
+    height:20px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.btn-color{
+
+    color:white;
+    background-color: black;
+}
+.about-us{
+    background-color: bisque;
+    
+
+}
